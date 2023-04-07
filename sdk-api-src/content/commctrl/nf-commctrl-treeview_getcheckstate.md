@@ -45,7 +45,7 @@ api_name:
  - TreeView_GetCheckState
 ---
 
-# TreeView_GetCheckState macro
+# TreeView_GetCheckState macro*
 
 
 ## -description
