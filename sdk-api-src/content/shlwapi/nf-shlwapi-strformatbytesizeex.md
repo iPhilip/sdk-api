@@ -107,9 +107,7 @@ The following table illustrates how this function converts a numeric value into 
 <td>1.99 GB</td>
 </tr>
 </table>
- 
 
-In Windows 10, size is reported in base 10 rather than  base 2. For example, 1 KB is 1000 bytes rather than 1024.
 
 ## -see-also
 
